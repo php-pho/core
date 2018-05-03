@@ -1,0 +1,21 @@
+{
+    "name": "pho/core",
+    "description": "Good enough web framework.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "KhanhIceTea",
+        "email": "khanhicetea@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "php-di/php-di": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pho\\Core\\": "src/"
+        }
+    }
+}
