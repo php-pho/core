@@ -1,7 +1,8 @@
 {
     "name": "pho/core",
     "description": "Good enough web framework.",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
